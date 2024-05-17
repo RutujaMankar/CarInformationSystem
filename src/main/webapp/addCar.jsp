@@ -16,6 +16,7 @@
 <div class="container">
 <h4 style = "text-align: center"> Add New Car Form</h4>
 <hr>
+Helloooooooooooooooooooooo
 <form action="CarController?action=add" method="post">
   <div class="mb-3 row">
     <label for="staticEmail" class="col-sm-2 col-form-label">Id</label>
